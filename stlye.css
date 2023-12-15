@@ -1,0 +1,33 @@
+.box {
+    margin-left: 40%;
+}
+
+.outer {
+    width: 450px;
+    height: 18px;
+    border: none;
+    background-color: rgb(198, 194, 190);
+    overflow: hidden; 
+    border-radius: 10px;
+    position: relative; 
+}
+.inner{
+transition: width 1s;
+}
+#display{
+margin-left: 200px;
+margin-top: -3px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px;
+    color: white;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+}
+
+.btns {
+    margin-left: 100px;
+}
